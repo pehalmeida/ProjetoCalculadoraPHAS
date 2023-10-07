@@ -42,6 +42,8 @@ namespace PrimeiroProjetoPHAS
                               "\n2. Subtrair" +
                               "\n3. Multiplicar" +
                               "\n4. Dividir" +
+                              "\n5. Potência" +
+                              "\n6. Raiz do 1° número" +
                               "\n\n. Escolha uma das opções acima: ");
             ConsultarOpcao = Convert.ToInt32(Console.ReadLine());
         }//Fim método Menu
@@ -80,6 +82,16 @@ namespace PrimeiroProjetoPHAS
                             Console.WriteLine("Impossível dividir");
                         }
                         Console.WriteLine("A divisão dos números digitados é: " + calc.Dividir());
+                        break;
+                    case 5:
+                        ColetarNum1();
+                        ColetarNum2();
+                        Console.WriteLine("A potencia dos números é: " + calc.Potencia());
+                        break;
+                    case 6:
+                        ColetarNum1();
+                        ColetarNum2();
+                        Console.WriteLine("A raiz do primeiro número é: " + calc.Raiz());
                         break;
                     default:
                         Console.WriteLine("A opção escolhida não é válida! Tente novamente.");

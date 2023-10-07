@@ -59,5 +59,15 @@ namespace PrimeiroProjetoPHAS
             }
         }//Fim Dividir
 
+        public double Potencia()
+        {
+            return Math.Pow(ConsultarNum1, ConsultarNum2);
+        }//Fim Potencia
+
+        public double Raiz()
+        {
+            return Math.Sqrt(ConsultarNum1);
+        }//Fim da Raiz
+
     }//Fim da classe
 }//Fim do projeto
