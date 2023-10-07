@@ -1,0 +1,8 @@
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\bin\Debug\PrimeiroProjetoPHAS.exe.config
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\bin\Debug\PrimeiroProjetoPHAS.exe
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\bin\Debug\PrimeiroProjetoPHAS.pdb
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\obj\Debug\PrimeiroProjetoPHAS.csproj.AssemblyReference.cache
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\obj\Debug\PrimeiroProjetoPHAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\obj\Debug\PrimeiroProjetoPHAS.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\obj\Debug\PrimeiroProjetoPHAS.exe
+C:\Users\pedro.hasantos16\source\repos\PrimeiroProjetoPHAS\PrimeiroProjetoPHAS\obj\Debug\PrimeiroProjetoPHAS.pdb
